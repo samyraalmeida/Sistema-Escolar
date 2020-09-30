@@ -676,7 +676,7 @@ def cadastrar(Disciplinas, Professores, Alunos):
         # Caso contrário,
         # Checo se não é para cadastrar uma disciplina
 
-        if geral.perguntar('\nDeseja cadastrar uma disciplina? (s/n)'):
+        if not geral.perguntar('\nDeseja cadastrar uma disciplina? (s/n)'):
             
             # Se sim, paro o loop
             break
