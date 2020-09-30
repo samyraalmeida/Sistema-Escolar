@@ -1,2 +1,8 @@
 # Sistema Escolar 
-##### Avaliação 3 e 4 - Fundamentos de Programação 
+##### Avaliações 3 e 4 - Fundamentos de Programação 
+
+### Em professor.py
+
+### Em aluno.py
+
+### Em disciplina.py
