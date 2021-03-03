@@ -1,2 +1,7 @@
-## Sistema Escolar 
-##### Avaliações 3 e 4 - Fundamentos de Programação 
+# Sistema Escolar 
+
+Projeto desenvolvido para o trabalho final da disciplina de Fundamentos de Programação do Curso de Matemática Industrial da Universidade Federal do Ceará
+
+### Descrição
+
+
